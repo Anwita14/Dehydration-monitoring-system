@@ -19,5 +19,4 @@ It predicts hydration status and can classify environmental seasonal context.
 - Seasonal context analysis
 - Sensor data visualization
 
-## 📷 Circuit Diagram
-![Circuit]()
+
