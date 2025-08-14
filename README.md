@@ -19,4 +19,7 @@ It predicts hydration status and can classify environmental seasonal context.
 - Seasonal context analysis
 - Sensor data visualization
 
+## Contributors
+- [Anwita Ghosh](https://github.com/Anwita14)
+- [Dhrubajoti Adhikari](https://github.com/Dhruba700)
 
